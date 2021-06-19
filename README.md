@@ -1,5 +1,5 @@
 # vaccineslotfinder
-Cowin - Search Multiple Districts for vaccine shots using python script.
+Cowin - Search Multiple Districts for vaccine shots at once using python script.
 
 
 Requirements:
